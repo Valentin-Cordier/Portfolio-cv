@@ -99,7 +99,7 @@ nav ul li a {
   color: #023871;
   display: none;
 }*/
-@media (max-width: 999px) {
+@media (max-width: 1006px) {
   .toggle {
     display: block;
   }
