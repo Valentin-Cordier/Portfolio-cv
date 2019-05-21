@@ -9,32 +9,35 @@
 
 <body>
   <?php require_once 'header.php';?>
+
   <section id="slideshow">
+
     <div class="container">
       <div class="c_slider"></div>
       <div class="slider">
         <figure>
-          <img src="img/dev.jpg" alt="" width=100% height="600" />
-          <figcaption>Salut</figcaption>
+          <img src="img/dev.jpg" alt="" width="1800px" height="850px" />
+          <figcaption>The mirror of soul</figcaption>
+
+        </figure>
+        <!--<
+  			-->
+        <figure>
+          <img src="img/images.jpg" alt="" width="1800px" height="850px" />
+          <figcaption>Let's cross that bridge when we come to it</figcaption>
+        </figure>
+        <!--
+  			-->
+        <figure>
+          <img src="img/a.jpg" alt="" width="1800px" height="850px" />
+          <figcaption>Sushi<em>(do)</em> time</figcaption>
 
         </figure>
         <!--
-      -->
+  			-->
         <figure>
-          <img src="img/images.jpg" alt="" width="100%" height="600" />
-          <figcaption>Hey !</figcaption>
-        </figure>
-        <!--
-    -->
-        <figure>
-          <img src="img/a.jpg" alt="" width="100%" height="600" />
-          <figcaption>Non !</figcaption>
-        </figure>
-        <!--
-  -->
-        <figure>
-          <img srx="img/b.jpg" alt="" width="100%" height="600" />
-          <figcaption>Oui !</figcaption>
+          <img src="img/b.jpg" alt="" width="1800px" height="850px" />
+          <figcaption>Waking Life</figcaption>
         </figure>
       </div>
     </div>

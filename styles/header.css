@@ -20,9 +20,7 @@ body {
 .main {
   width: 100%;
   background-size: cover;
-  position: fixed;
   top: 0px;
-  z-index: 10;
   transition: .5s;
   display: block;
   background-color: #0001;
